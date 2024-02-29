@@ -8,7 +8,7 @@ Automate deployment of the Card website with an Nginx server using Docker images
 This repository includes scripts to push Docker images to your DockerHub repository and clean up deployment on local machine(optional).
 
 ******************
-![](https://github.com/odennav/nginx-card/blob/master/villa-shot.jpg) 
+![](https://github.com/odennav/nginx-card/blob/main/villa-shot.jpg) 
 
 ## Special Credits
 
