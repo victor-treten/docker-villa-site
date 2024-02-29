@@ -8,7 +8,7 @@ Automate deployment of the Card website with an Nginx server using Docker images
 This repository includes scripts to push Docker images to your DockerHub repository and clean up deployment on local machine(optional).
 
 ******************
-![](https://github.com/odennav/nginx-card/blob/main/villa-shot.jpg) 
+![](https://github.com/odennav/nginx-card/blob/main/villa-shot.jpeg) 
 
 ## Special Credits
 
@@ -30,7 +30,8 @@ The provided Vagrant file simplifies VM Management.
    - If you intend to use git bash with Windows and not linux VM, install chocolatey [here](https://chocolatey.org/install).
 
    - Open powershell terminal and use chocolatey to install git bash .
-      ```bash
+   
+   ```bash
    choco install git
    ```
 
@@ -42,7 +43,7 @@ The provided Vagrant file simplifies VM Management.
 
 
 3. **Spin up VM:**
-    ```bash
+   ```bash
    vagrant up cool
    ```
 
