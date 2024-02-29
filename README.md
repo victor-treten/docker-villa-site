@@ -12,7 +12,7 @@ This repository includes scripts to push Docker images to your DockerHub reposit
 
 ## Special Credits
 
-Special thanks to [Templatemo](https://templatemo.com/page/1) for free HTML templates
+Special thanks to [Templatemo](https://templatemo.com/page/1) for free CSS templates
 
 
 ## Getting Started
