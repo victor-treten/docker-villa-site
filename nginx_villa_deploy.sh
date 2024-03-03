@@ -50,13 +50,13 @@ echo -e "\n"
 
 echo "**********************************************************"
 echo "Tag image to repository with card tag"
-docker tag villa-image:villa victortreten/repo_test:villa
+docker tag villa-image:villa odennav/nginx:villa
 sleep 5
 echo -e "\n"
 
 echo "**********************************************************"
 echo "Push tagged image to dockerhub"
-docker push victortreten/repo_test:villa
+docker push odennav/nginx:villa
 sleep 5
 echo -e "\n"
 
