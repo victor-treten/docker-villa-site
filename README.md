@@ -1,6 +1,6 @@
-# Deploying the Card Website with Docker and Nginx
+# Deploying the Card Website with Docker
 
-Deployment automated with bash scripts.
+Deployment automated with bash scripts in test environment.
 
 ## Overview
 
@@ -57,7 +57,7 @@ The provided Vagrant file simplifies VM Management.
 
    ```bash
    sudo apt-get install git
-   git clone https://github.com/odennav/docker-nginx-villa.git
+   git clone https://github.com/odennav/docker-villa-site.git
    cd docker-nginx-villa
    ```
 
