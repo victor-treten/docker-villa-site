@@ -1,6 +1,6 @@
 # Deploying the Card Website with Docker
 
-Deployment automated with bash scripts in test environment.
+Deployment automated with bash scripts in Test environment.
 
 ## Overview
 
@@ -8,7 +8,7 @@ Automate deployment of the Card website with an Nginx server using Docker images
 This repository includes scripts to push Docker images to your DockerHub repository and clean up deployment on local machine(optional).
 
 ******************
-![](https://github.com/odennav/docker-nginx-villa/blob/main/villa-shot.PNG) 
+![](https://github.com/odennav/docker-nginx-villa/blob/main/docs/villa-shot.PNG) 
 
 ## Special Credits
 
@@ -31,7 +31,7 @@ The provided Vagrant file simplifies VM Management.
 
    Open powershell terminal and use chocolatey to install git bash .
    
-   ```bash
+   ```console
    choco install git
    ```
 
@@ -58,7 +58,7 @@ The provided Vagrant file simplifies VM Management.
    ```bash
    sudo apt-get install git
    git clone https://github.com/odennav/docker-villa-site.git
-   cd docker-nginx-villa
+   cd docker-villa-site
    ```
 
 6. **Practice with the Scripts:**
